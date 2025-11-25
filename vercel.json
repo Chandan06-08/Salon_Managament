@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/salon_queue/Public/landing.html" }
+  ]
+}
